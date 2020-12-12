@@ -5,12 +5,13 @@
 ## Hello, World!
 
 * Software Developer and BI Analyst
-* Father of pets 🐶 😺 (a baby 👶 is comming!)
+* Father of pets 🐶 😺 (a baby 👶&nbsp; is comming!)
 * Aviation enthusiast
+* Fan of TV shows 📺 and movies 🎬 (and popcorn! 🍿)
 
 ## Dev skills
 * HTML/CSS/Javascript/ECMAScript/TypeScript
-* Node.js
+* Node.js (Express/Adonis)
 * ReactJS
 * ReactNative
 * Next.js
@@ -18,6 +19,6 @@
 
 ## Formation
 * Computer Science graduation
-* Full Stack Developer for [Rocketseat](https://rocketseat.com.br/) 🚀
+* Full Stack Developer by [Rocketseat](https://rocketseat.com.br/) 🚀
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jsfelix)](https://github.com/jsfelix)
