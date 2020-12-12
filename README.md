@@ -5,9 +5,9 @@
 ## Hello, World!
 
 * Software Developer and BI Analyst
-* Father of pets 🐶 😺 (a baby 👶&nbsp; is comming!)
+* Father of pets 🐶&nbsp; 😺&nbsp; (a baby 👶&nbsp; is comming!)
 * Aviation enthusiast
-* Fan of TV shows 📺 and movies 🎬 (and popcorn! 🍿)
+* Fan of TV shows 📺 &nbsp;and movies 🎬&nbsp; (and popcorn! 🍿)
 
 ## Dev skills
 * HTML/CSS/Javascript/ECMAScript/TypeScript
