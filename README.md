@@ -1,11 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsfelix/)](https://www.linkedin.com/in/jsfelix/)
 [![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeffersonsfelix/)](https://www.instagram.com/jeffersonsfelix/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@jsfelix.dev)](mailto:me@jsfelix.dev)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:me@jsfelix.dev)](mailto:me@jsfelix.dev)
 
 ## Hello, World!
 
 * Software Developer and BI Analyst
-* Father of pets 🐶&nbsp; 😺&nbsp; (a baby 👶&nbsp; is comming!)
+* Father of a boy 👶&nbsp; and pets 🐶&nbsp; 😺&nbsp; 
 * Aviation enthusiast
 * Fan of TV shows 📺 &nbsp;and movies 🎬&nbsp; (and popcorn! 🍿)
 
