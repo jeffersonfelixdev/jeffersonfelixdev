@@ -18,12 +18,12 @@
   * Fan of TV shows 📺 &nbsp;and movies 🎬&nbsp; (and popcorn! 🍿)
 
   ## Dev skills
-  * HTML/CSS/Javascript/ECMAScript/TypeScript
-  * Node.js (Express/Adonis)
-  * ReactJS
-  * ReactNative
-  * Next.js
-  * CMS: Wordpress, Contentful, Prismic
+  * Lang: HTML/CSS/Javascript/ECMAScript/TypeScript
+  * Backend: Node.js (Express/Adonis)
+  * Frontend: ReactJS, Next.js
+  * Mobile: React Native
+  * ORM: Sequelize, TypeORM, Prisma
+  * CMS: Wordpress, Strapi, Contentful, Prismic, Ghost
 
   ## Formation
   * Computer Science graduation
