@@ -19,11 +19,12 @@
 
   ## Dev skills
   * Lang: HTML/CSS/Javascript/ECMAScript/TypeScript
-  * Backend: Node.js (Express/Adonis)
+  * Backend: Node.js (Express/NestJS)
   * Frontend: ReactJS, Next.js
   * Mobile: React Native
   * ORM: Sequelize, TypeORM, Prisma
   * CMS: Wordpress, Strapi, Contentful, Prismic, Ghost
+  * DB: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
 
   ## Formation
   * Computer Science graduation
