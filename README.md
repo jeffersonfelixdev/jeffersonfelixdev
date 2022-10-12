@@ -30,7 +30,6 @@
   * Computer Science graduation
   * Full Stack Developer by [Rocketseat](https://rocketseat.com.br/) 🚀
 
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jsfelix)](https://github.com/jsfelix)
   </div>
   
 </div>
