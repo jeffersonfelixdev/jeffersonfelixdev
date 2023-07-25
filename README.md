@@ -14,7 +14,7 @@
   ## Hello, World!
 
   * Software Developer and BI Analyst
-  * Father of a boy 👶&nbsp; and pets 🐶&nbsp; 😺&nbsp; 
+  * Father of two boys 👶&nbsp; 👶&nbsp; and pets 🐶&nbsp; 😺&nbsp; 
   * Aviation enthusiast
   * Fan of TV shows 📺 &nbsp;and movies 🎬&nbsp; (and popcorn! 🍿)
 
