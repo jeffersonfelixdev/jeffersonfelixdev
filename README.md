@@ -29,7 +29,6 @@
 
   ## Formation
   * Computer Science graduation
-  * Full Stack Developer by [Rocketseat](https://rocketseat.com.br/) 🚀
 
   </div>
   
